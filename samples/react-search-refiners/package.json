@@ -46,9 +46,9 @@
     "react-js-pagination": "3.0.0"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.6.0-plusbeta",
+    "@microsoft/sp-build-web": "1.16.0",
     "@microsoft/sp-module-interfaces": "1.6.0-plusbeta",
-    "@microsoft/sp-webpart-workbench": "1.6.0-plusbeta",
+    "@microsoft/sp-webpart-workbench": "1.12.1",
     "@types/chai": "3.4.34",
     "@types/mocha": "2.2.38",
     "ajv": "~5.2.2",
