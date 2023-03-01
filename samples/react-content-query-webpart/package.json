@@ -11,7 +11,7 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "handlebars": "^4.0.6",
+    "handlebars": "^4.7.7",
     "handlebars-helpers": "^0.8.2",
     "moment": "^2.18.1",
     "react": "15.4.2",
@@ -30,9 +30,9 @@
     "@types/webpack-env": ">=1.12.1 <1.14.0"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "~1.1.0",
+    "@microsoft/sp-build-web": "~1.16.1",
     "@microsoft/sp-module-interfaces": "~1.1.0",
-    "@microsoft/sp-webpart-workbench": "~1.1.0",
+    "@microsoft/sp-webpart-workbench": "~1.12.1",
     "gulp": "~3.9.1",
     "@types/chai": ">=3.4.34 <3.6.0",
     "@types/mocha": ">=2.2.33 <2.6.0",
