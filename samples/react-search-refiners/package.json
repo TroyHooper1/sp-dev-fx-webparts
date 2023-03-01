@@ -34,7 +34,7 @@
     "@types/webpack-env": "1.13.1",
     "common-tags": "^1.8.0",
     "downshift": "^1.31.14",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.7.7",
     "handlebars-helpers": "^0.8.4",
     "immutability-helper": "2.4.0",
     "lodash-es": "4.17.4",
@@ -46,9 +46,9 @@
     "react-js-pagination": "3.0.0"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.6.0-plusbeta",
+    "@microsoft/sp-build-web": "1.16.1",
     "@microsoft/sp-module-interfaces": "1.6.0-plusbeta",
-    "@microsoft/sp-webpart-workbench": "1.6.0-plusbeta",
+    "@microsoft/sp-webpart-workbench": "1.12.1",
     "@types/chai": "3.4.34",
     "@types/mocha": "2.2.38",
     "ajv": "~5.2.2",
